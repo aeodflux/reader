@@ -1,0 +1,23 @@
+.container {
+  width: 200px;
+  position: fixed;
+  height: 500px;
+  overflow: scroll;
+  margin-left: 50px;
+  border-radius: 5px;
+  background-color: white;
+  border: 45px white solid;
+
+  border-right: 10px white solid;
+  border-left: 10px white solid;
+  border-bottom: 15px white solid;
+  outline: 1.3px #646cff solid;
+}
+
+.header {
+  position: fixed;
+  z-index: 2;
+  transform: translate(50%, -30%);
+  margin-left: 33px;
+  font-size: 22px;
+}
