@@ -3,7 +3,7 @@ export const TomePartCaption = ({ index }) => {
     case 2:
       return (
         <>
-          <h3>Том второй</h3>
+          <h3>Том первый</h3>
           <h4>Часть первая</h4>
         </>
       );
